@@ -1,0 +1,25 @@
+{
+  "name": "houseofapps-react-native-template",
+  "version": "1.0.0",
+  "description": "Designed React Native Template",
+  "main": "template.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onuroo/houseofapps-react-native-template.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "template",
+    "houseofapps"
+  ],
+  "author": "onur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onuroo/houseofapps-react-native-template/issues"
+  },
+  "homepage": "https://github.com/onuroo/houseofapps-react-native-template#readme"
+}
