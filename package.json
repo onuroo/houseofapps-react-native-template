@@ -1,6 +1,6 @@
 {
   "name": "houseofapps-react-native-template",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Designed React Native Template",
   "main": "template.config.js",
   "scripts": {
